@@ -7,6 +7,7 @@
 
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:rim="http://www.blackberry.com/ns/widgets"
+		  id="com.oopost.phonegap"
 	version="1.0.0.0">
 
   <name>phonegap-blackberry-sample</name>
